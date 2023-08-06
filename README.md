@@ -1,6 +1,6 @@
 # raspberrypi_python311
 This is a small guide for installing python3.11 on a Raspberry Pi running Raspberry Pi OS.
-This guide makes heavy references to this page: https://raspberrytips.com/install-latest-python-raspberry-pi/. It might not work/might bork your system, python installs are weird...
+This guide makes heavy references to this [page](https://raspberrytips.com/install-latest-python-raspberry-pi/). It might not work/might bork your system, python installs are weird...
 ### Install various SSL related libraries
 If you don't do this step first, pip doesn't work later
 ```bash
