@@ -25,7 +25,7 @@ sudo rm python3
 sudo ln -s /usr/local/bin/python3.11 python3
 ```
 Check that it's correct by typing `python3 --version`
-(You could also do the same steps but with `python` instead of `python3`. Also check out [pyenv](https://github.com/pyenv/pyenv) for better python version management.
+(You could also do the same steps but with `python` instead of `python3`.) ((Also check out [pyenv](https://github.com/pyenv/pyenv) for better python version management.))
 
 ### Make sure it's working and install a package
 Make a venv for installations (I like to put them in my ~/envs directory). This will take a few seconds
